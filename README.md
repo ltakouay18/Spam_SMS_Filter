@@ -154,6 +154,81 @@ $w_{n}$ is a word in the sms message.
   <mtable displaystyle="true">
     <mlabeledtr>
       <mtd>
+        <mtext>(3)</mtext>
+      </mtd>
+      <mtd>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>w</mi>
+          <mi>i</mi>
+        </msub>
+        <mo data-mjx-texclass="ORD" stretchy="false">|</mo>
+        <mi>S</mi>
+        <mi>p</mi>
+        <mi>a</mi>
+        <mi>m</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>N</mi>
+              <mrow data-mjx-texclass="ORD">
+                <msub>
+                  <mi>w</mi>
+                  <mi>i</mi>
+                </msub>
+                <mo data-mjx-texclass="ORD" stretchy="false">|</mo>
+                <mi>S</mi>
+                <mi>p</mi>
+                <mi>a</mi>
+                <mi>m</mi>
+              </mrow>
+            </msub>
+            <mo>+</mo>
+            <mi>&#x3B1;</mi>
+          </mrow>
+          <mrow>
+            <msub>
+              <mi>N</mi>
+              <mrow data-mjx-texclass="ORD">
+                <mi>S</mi>
+                <mi>p</mi>
+                <mi>a</mi>
+                <mi>m</mi>
+              </mrow>
+            </msub>
+            <mo>+</mo>
+            <mi>&#x3B1;</mi>
+            <mo>&#x22C5;</mo>
+            <msub>
+              <mi>N</mi>
+              <mrow data-mjx-texclass="ORD">
+                <mi>V</mi>
+                <mi>o</mi>
+                <mi>c</mi>
+                <mi>a</mi>
+                <mi>b</mi>
+                <mi>u</mi>
+                <mi>l</mi>
+                <mi>a</mi>
+                <mi>r</mi>
+                <mi>y</mi>
+              </mrow>
+            </msub>
+          </mrow>
+        </mfrac>
+      </mtd>
+    </mlabeledtr>
+  </mtable>
+</math>
+
+<br>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable displaystyle="true">
+    <mlabeledtr>
+      <mtd>
         <mtext>(4)</mtext>
       </mtd>
       <mtd>
