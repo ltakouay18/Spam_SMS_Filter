@@ -8,7 +8,7 @@ Below is an illustration of the existing dataset and what we want our final trai
 With Naive Bayes Algorithm we can answer two probability questions:
 1. Probability of a New Message being a Spam given its content ('$w_{1}$, w~2,..., w~n).
 2. Probability of a New Message being a ham (non-spam) given its content (w1, w2,..., wn).
-
+$x_{2}$
 wn is a word in the sms message.
    
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
