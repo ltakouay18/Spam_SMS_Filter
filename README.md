@@ -4,7 +4,6 @@ Project: Building a Spam Filter with Naive Bayes Algorithm
 We are building a Naive Bayes Algorithm, derived from probability's Bayes theorem to train a dataset of existing sms messages that were classified by humans as 'spam' or 'ham' (Non-Spam).
 Below is an illustration of the existing dataset and what we want our final training dataset to look like.
 
-<br>
 ![image](https://github.com/ltakouay18/Spam_SMS_Filter/assets/129616564/65e2ded7-091d-4be8-9c34-0a63d5dd1447)
 
 With Naive Bayes Algorithm we can answer two probability questions:
