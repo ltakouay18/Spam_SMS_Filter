@@ -7,9 +7,79 @@ Below is an illustration of the existing dataset and what we want our final trai
 
 With Naive Bayes Algorithm we can answer two probability questions:
 1. Probability of a New Message being a Spam given its content ($w_{1}$, $w_{2}$,..., $w_{n}$).
-2. Probability of a New Message being a ham (non-spam) given its content (w1, w2,..., wn).
-$x_{2}$
-wn is a word in the sms message.
+2. Probability of a New Message being a ham (non-spam) given its content ($w_{1}$, $w_{2}$,..., $w_{n}$).
+   
+$w_{n}$ is a word in the sms message.
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable displaystyle="true">
+    <mlabeledtr>
+      <mtd>
+        <mtext>(1)</mtext>
+      </mtd>
+      <mtd>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>S</mi>
+        <mi>p</mi>
+        <mi>a</mi>
+        <mi>m</mi>
+        <mo data-mjx-texclass="ORD" stretchy="false">|</mo>
+        <msub>
+          <mi>w</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>,</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mi>n</mi>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x221D;</mo>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>S</mi>
+        <mi>p</mi>
+        <mi>a</mi>
+        <mi>m</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;</mo>
+        <munderover>
+          <mo data-mjx-texclass="OP">&#x220F;</mo>
+          <mrow data-mjx-texclass="ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow data-mjx-texclass="ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>w</mi>
+          <mi>i</mi>
+        </msub>
+        <mo data-mjx-texclass="ORD" stretchy="false">|</mo>
+        <mi>S</mi>
+        <mi>p</mi>
+        <mi>a</mi>
+        <mi>m</mi>
+        <mo stretchy="false">)</mo>
+      </mtd>
+    </mlabeledtr>
+  </mtable>
+</math>
    
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mtable displaystyle="true">
