@@ -6,7 +6,7 @@ Below is an illustration of the existing dataset and what we want our final trai
 ![image](https://github.com/ltakouay18/Spam_SMS_Filter/assets/129616564/65e2ded7-091d-4be8-9c34-0a63d5dd1447)
 
 With Naive Bayes Algorithm we can answer two probability questions:
-1. Probability of a New Message being a Spam given its content (w~1, w~2,..., w~n).
+1. Probability of a New Message being a Spam given its content (w_{1}, w~2,..., w~n).
 2. Probability of a New Message being a ham (non-spam) given its content (w1, w2,..., wn).
 
 wn is a word in the sms message.
