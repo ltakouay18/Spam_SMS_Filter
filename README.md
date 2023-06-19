@@ -80,7 +80,76 @@ $w_{n}$ is a word in the sms message.
     </mlabeledtr>
   </mtable>
 </math>
+
 <br> 
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable displaystyle="true">
+    <mlabeledtr>
+      <mtd>
+        <mtext>(2)</mtext>
+      </mtd>
+      <mtd>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>H</mi>
+        <mi>a</mi>
+        <mi>m</mi>
+        <mo data-mjx-texclass="ORD" stretchy="false">|</mo>
+        <msub>
+          <mi>w</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>,</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mi>n</mi>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x221D;</mo>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>H</mi>
+        <mi>a</mi>
+        <mi>m</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;</mo>
+        <munderover>
+          <mo data-mjx-texclass="OP">&#x220F;</mo>
+          <mrow data-mjx-texclass="ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow data-mjx-texclass="ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>w</mi>
+          <mi>i</mi>
+        </msub>
+        <mo data-mjx-texclass="ORD" stretchy="false">|</mo>
+        <mi>H</mi>
+        <mi>a</mi>
+        <mi>m</mi>
+        <mo stretchy="false">)</mo>
+      </mtd>
+    </mlabeledtr>
+  </mtable>
+</math>
+
+<br>
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mtable displaystyle="true">
     <mlabeledtr>
