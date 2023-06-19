@@ -80,7 +80,7 @@ $w_{n}$ is a word in the sms message.
     </mlabeledtr>
   </mtable>
 </math>
-   
+<br> 
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mtable displaystyle="true">
     <mlabeledtr>
